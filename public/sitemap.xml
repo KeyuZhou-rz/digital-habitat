@@ -2,10 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/hello%E8%BF%99%E9%87%8C%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%A0%96%E6%81%AF%E5%9C%B0/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
