@@ -11,14 +11,10 @@
             "id": "f8d026d32cb489a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/hello，这里是我的数字栖息地.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "hello，这里是我的数字栖息地"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/hello，这里是我的数字栖息地.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "hello，这里是我的数字栖息地 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/hello，这里是我的数字栖息地.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "hello，这里是我的数字栖息地 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/hello，这里是我的数字栖息地.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "hello，这里是我的数字栖息地 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -170,8 +163,8 @@
   },
   "active": "f8d026d32cb489a4",
   "lastOpenFiles": [
-    "content/hello，这里是我的数字栖息地.md",
     "content/posts/hello，这里是我的数字栖息地.md",
+    "content/hello，这里是我的数字栖息地.md",
     "content/posts",
     "content/新建文件夹",
     "public/hello这里是我的数字栖息地/index.html",
